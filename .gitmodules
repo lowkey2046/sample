@@ -7,3 +7,9 @@
 [submodule "deli"]
 	path = deli
 	url = https://github.com/github/deli.git
+[submodule "vendor/sprockets"]
+	path = vendor/sprockets
+	url = https://github.com/rails/sprockets.git
+[submodule "vendor/execjs"]
+	path = vendor/execjs
+	url = https://github.com/rails/execjs.git
