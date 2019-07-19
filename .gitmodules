@@ -1,3 +1,6 @@
 [submodule "gitignore"]
 	path = gitignore
 	url = https://github.com/github/gitignore.git
+[submodule "ruby-mime-types"]
+	path = ruby-mime-types
+	url = https://github.com/mime-types/ruby-mime-types.git
