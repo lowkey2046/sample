@@ -1,12 +1,17 @@
 [submodule "gitignore"]
-	path = gitignore
 	url = https://github.com/github/gitignore.git
+[submodule "gitignore"]
+	path = gitignore
+
 [submodule "ruby-mime-types"]
 	path = ruby-mime-types
+[submodule "ruby-mime-types"]
 	url = https://github.com/mime-types/ruby-mime-types.git
-[submodule "deli"]
+
+[submodule "deli**"]
 	path = deli
 	url = https://github.com/github/deli.git
+
 [submodule "vendor/sprockets"]
 	path = vendor/sprockets
 	url = https://github.com/rails/sprockets.git
